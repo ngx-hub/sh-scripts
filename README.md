@@ -1,2 +1,3 @@
-# sh-scripts
-sh-scripts
+# Shell utils
+
+`<shell-utils>`
